@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719698198767",
+    "project_id": "jumasi-2fd57",
+    "storage_bucket": "jumasi-2fd57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719698198767:android:1c0819763fb2bb8bbc5b1a",
+        "android_client_info": {
+          "package_name": "com.stud11418024.jumasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719698198767-m3me4pf75nbo13m11dht7vucpl1j117l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwjkmKK7eD0DldJn0N6sJS53D-bawkLZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719698198767-m3me4pf75nbo13m11dht7vucpl1j117l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
